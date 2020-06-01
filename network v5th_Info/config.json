@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://nachhaltigkeit-politik-kultur.de/wp-content/uploads/2020/04/Cover-Kulturpolitik-in-Th%C3%BCringen-1280x1280-1.jpg",
+    "link": "https://www.transcript-verlag.de/media/pdf/c7/fd/c7/oa9783839442555ybSD5jbKbJKqU.pdf",
+    "text": "Michael Flohr"
+  },
+  "text": {
+    "more": "",
+    "intro": "Abb. 32: Informationsnetzwerk (gerichtet, georeferenziert) (aus Kapitel 4.6.1 \"Kulturpolitik in Thüringen\")",
+    "title": "Informationsaustausch in Thüringen"
+  },
+  "legend": {
+    "edgeLabel": "Informationsaustausch",
+    "colorLabel": "Verbindungsstärke und Akteurstypen",
+    "nodeLabel": "Akteure"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Akteursgruppe",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
