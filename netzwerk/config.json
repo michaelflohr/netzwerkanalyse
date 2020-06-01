@@ -3,12 +3,12 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "https://nachhaltigkeit-politik-kultur.de/wp-content/uploads/2020/06/Cover-Kulturpolitik-in-Thüringen-klein-Zuschnitt.jpg",
+    "file": "https://nachhaltigkeit-politik-kultur.de/wp-content/uploads/2020/06/Cover-Kulturpolitik-in-Thüringen-Zuschnitt-klein.jpg",
     "link": "https://www.transcript-verlag.de/media/pdf/c7/fd/c7/oa9783839442555ybSD5jbKbJKqU.pdf",
     "text": "Michael Flohr"
   },
   "text": {
-    "more": "",
+    "more": "Weitere Informationen zur Studie \"Kulturpolitik in Thüringen. Praktiken - Governance - Netzwerke\" unter https://nachhaltigkeit-politik-kultur.de/kulturpolitik/",
     "intro": "Abb. 32: Informationsnetzwerk (gerichtet, georeferenziert) (aus Kapitel 4.6.1 \"Kulturpolitik in Thüringen\")",
     "title": "Informationsaustausch in Thüringen"
   },
@@ -23,7 +23,7 @@
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
