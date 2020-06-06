@@ -31,12 +31,12 @@
       "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
-      "activeFontStyle": "bold",
+      "activeFontStyle": "normal",
       "defaultLabelColor": "#000",
       "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
-      "fontStyle": "bold",
-      "hoverFontStyle": "bold",
+      "fontStyle": "normal",
+      "hoverFontStyle": "normal",
       "defaultLabelSize": 14
     },
     "graphProperties": {
